@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King's most excellent Majesty. The humble petition of Rober Williams of London Mariner, Your Majesty's most loyal and dutiful subject.</title>
+            <author>Williams, Roger, mariner.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06638</idno>
+            <idno type="STC">Wing W2771</idno>
+            <idno type="STC">ESTC R215610</idno>
+            <idno type="EEBO-CITATION">49521034</idno>
+            <idno type="OCLC">ocm 49521034</idno>
+            <idno type="VID">174251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174251)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2679:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King's most excellent Majesty. The humble petition of Rober Williams of London Mariner, Your Majesty's most loyal and dutiful subject.</title>
+                  <author>Williams, Roger, mariner.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Merchant mariners --  Salaries, etc. --  England --  Early works to 1800.</term>
+               <term>Wages --  Fish trade --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:174251:1" rendition="simple:additions"/>
+            <head>To the KING's Moſt Excellent MAJESTY.</head>
+            <head type="sub">The Humble Petition of <hi>Roger Williams</hi> of <hi>London</hi> Mariner, Your Majeſty's moſt Loyal and Dutiful Subject.</head>
+            <opener>Humbly Complaining,</opener>
+            <p>SHeweth unto Your moſt Sacred Majeſty, That Your Petitioner having been employed by one <hi>Edward Meliſh</hi> of <hi>London</hi> Merchant, to be Ma<g ref="char:EOLhyphen"/>ſter of a ſmall Ship called the <hi>Valentine,</hi> of about 60 Tun, in the years 1672. and 1673. from <hi>London</hi> to <hi>Fare</hi> in <hi>Portugal,</hi> and from thence to <hi>Newfound-land,</hi> to buy Fiſh, and to carry the ſame to <hi>Oporto,</hi> and to come from <hi>Oporto</hi> to <hi>London:</hi> In which Voyage Your Petitioner proceeded, but in his Return to <hi>London,</hi> was taken by a <hi>Dutch</hi> Privateer, not far from the <hi>Downs;</hi> Afterwards Your Petitioner was forc'd to pay the Sea-men their wages for the proſperous Voyages; <hi>Meliſh</hi> from time to time promiſing to pay Your Petitioner; but not doing it in the ſpace of near 3 years time, Your Petitioner ſu'd him in the Admiralty for his own and Sea-mens wages, amounting to near 200 <hi>l.</hi> Whereupon <hi>Meliſh</hi> exhibited his Bill in Chancery againſt Your Petitioner, pretending breach of Orders; and that Your Pe<g ref="char:EOLhyphen"/>titioner refuſed to give an Account of the Goods and Moneys wherewith he was intruſted in the foreſaid Voyages; and thereby, and by other falſe ſuggeſtions, he obtained an Injunction to ſtop Your Petitioners Proceedings in the Admiralty for the wages, till a hearing in Chancery; and after a tedi<g ref="char:EOLhyphen"/>ous (and to Your Petitioner a Chargeable) Proceeding there, the Cauſe came to hearing in <hi>Eaſter-Term</hi> 1679. and the Lord Chancellor then decreed that Sir <hi>Samuel Clerk</hi> K<hi rend="sup">nt.</hi> one of the Maſters of that Court, ſhould inſpect Your Petitioners Account; which Account had been given in to <hi>Meliſh</hi> ſix years before, and no objection made againſt it, till Your Petitioner ſu'd for his wages; And his Lordſhip alſo decreed, that Your Petitioner ſhould have his and his Sea-mens wages, but no conſideration for the long detaining it; yet that the ſaid Maſter ſhould make all other juſt &amp; fitting allowances on both ſides, and what the Maſter ſhould report due to either party, ſhould accor<g ref="char:EOLhyphen"/>dingly be paid; But as to <hi>Melliſh's</hi> pretended breach of Orders, his Lord<g ref="char:EOLhyphen"/>ſhip left <hi>Melliſh</hi> to his remedy at Law, if he ſhould be ſo adviſed; and fur<g ref="char:EOLhyphen"/>ther declared, that if <hi>Melliſh</hi> did not try it that <hi>Terus,</hi> his Lordſhip would take it for granted, there was no breach of Orders; whereupon <hi>Melliſh</hi> brought his Action againſt Your Petitioner, for refuſing to go back from <hi>Oporto</hi> to <hi>Newfound-land,</hi> in <hi>Septemb.</hi> 1673. and for neglecting to put into ſome Port in the Weſt of <hi>England,</hi> in his way from <hi>Oporto</hi> to <hi>London,</hi> whereby the ſaid Ship was taken; and laid his Damages to 2000 <hi>l.</hi> though Your Petitioner gained for <hi>Melliſh</hi> in the ſaid Voyages above 1000 <hi>l.</hi> more then his Loſſes; And <hi>Melliſh</hi> having laid his Action in <hi>London,</hi> and brought the ſame to Try<g ref="char:EOLhyphen"/>al, and after appearing at <hi>Guild-hall</hi> ſeveral times, as if he would try his Cauſe, he prevailed to have it put off divers times, to Your Petitioners extra<g ref="char:EOLhyphen"/>ordinary Charge, till ſuch time as Your Petitioners Occaſions forc'd him be<g ref="char:EOLhyphen"/>yond-Sea, and until <hi>Melliſh</hi> had obtain'd a Jury of moſt Merchants, ſome of them being Brothers to thoſe to whom a conſiderable part of the Goods in the Ship (when loſt) were conſign'd, as afterwards appear'd; and ſome of them were afterwards of <hi>that remaquable Grand-Jury that refus'd to find the Bill against the Earl of</hi> Shaftsbury; yet very freely gave a Verdict againſt Your Petitioner for 200 <hi>l.</hi> for refuſing to go from <hi>Oporto</hi> to <hi>Newfound-land,</hi> and for not putting into ſome Port of the Weſt of <hi>England,</hi> though it was fully proved the Ship was ſo rotten and decay'd, that ſhe was not capable to perform the Voyage to <hi>Newfound-land,</hi> and that the Ships Rudder broke off, before Your Petitioner got near the <hi>Engliſh</hi> Coaſt; &amp; that when he came into the Channel, the Wind blew ſo hard N. and N. W. that he could not poſſibly put into any Port in the Weſt of <hi>England,</hi> and no proof was made to the contrary.</p>
+            <p>
+               <note n="*" place="margin">I. Cauſe of Com<g ref="char:EOLhyphen"/>plaint.</note> And Your Petitioner further ſheweth unto Your Sacred Majeſty, that after many motions made in the Common-Pleas, where the Action was brought for a new Tryal, which is uſual in ſuch Caſes; And though the Lord Chief-Juſtice <hi>North</hi> (before whom the Cauſe was try'd) acknowledg'd that Your Petitioners Agents were Out-ſolicited; and that if he had been of the Jury he would not have given ſuch a Verdict; yet he gave Judgment againſt Your Petitioner for 230 <hi>l.</hi> the 30 <hi>l.</hi> being for Coſt of Suit; and ſoon after <hi>Melliſh</hi> obtain'd an Order from the Lord Chancellor that the ſaid 230 <hi>l.</hi> ſhould be deducted out of Your Petitioners demands before Sir <hi>Samuel Clerk;</hi> whereupon Your Petitioner exhibited a Bill before his Lordſhip, to be relie<g ref="char:EOLhyphen"/>ved againſt the ſaid Verdict, by having a new Tryal by an <hi>Indifferent Jury;</hi> And ſuch Proceedings were thereupon had, that the Cauſe was by his Lordſhips own Order ſet down to be heard on the 11th. of <hi>January</hi> 1681. and ought to have been heard in courſe a long time ſince; but by <hi>Melliſh's</hi> Art and Skill it is hi<g ref="char:EOLhyphen"/>therto kept off from hearing.</p>
+            <p>And Your Petitioner further ſheweth unto Your Sacred Majeſty, that du<g ref="char:EOLhyphen"/>ring the Tranſactions aforeſaid, Sir <hi>Samuel Clerk</hi> inſpected Your Petitioners Account, and having made unjuſt abatements of what Your Petitioner paid for Fiſh for <hi>Melliſh</hi> at <hi>Newfound-land,</hi> though Your Petitioners Account is no way diſproved, and though Your Petitioner accounts for thoſe Fiſh at far cheaper rates than others have paid from the year 1672. till this time, as is moſt manifeſtly proved; And the ſaid Sir <hi>Samuel Clark</hi> did make Your Pe<g ref="char:EOLhyphen"/>titioner account to <hi>Melliſh</hi> for Your Petitioners own Fiſh, that Your Petitio<g ref="char:EOLhyphen"/>ner brought from <hi>Newfound-land,</hi> as Fiſh caught by Your Petitioner at Sea, becauſe Your Petitioner could not at that time of day (being 8 years after) prove he bought them for his own uſe, although <hi>Melliſh's</hi> Factor proves Your Petitioner carried from <hi>Faro</hi> to <hi>Newfound-land</hi> as much Wines and other Commodities as would have purchaſed ſo much Fiſh, according to the Bargain made for <hi>Melliſh;</hi>
+               <note n="*" place="margin">II. Cauſe of Com<g ref="char:EOLhyphen"/>plaint.</note> and Sir <hi>Samuel Clerk</hi> abated conſiderably of the wages, thereby incroaching on the courſe of Tryals by the Common-Law, as to what the ſaid Fiſh coſt at <hi>Newfound-land,</hi> and how much Fiſh was caught, and how much wages Your Petitioner and Sea-men were to have by agree<g ref="char:EOLhyphen"/>ment; the ſame being all matters of Fact, and tryable by Jury, in regard the Original Contract touching the ſame was was made in <hi>England;</hi> And the ſaid Sir <hi>Samuel Clark</hi> made Your Petitioner account twice for the ſame things, and made ſuch other unjuſt allowances, whereby not only Your Pe<g ref="char:EOLhyphen"/>titioner and Sea-mens wages were wholly ſwallowed up, but Your Petitioner was thereby made Debter to <hi>Melliſh</hi> in near 300 <hi>l.</hi> and about <hi>July</hi> 1681. Sir <hi>Samuel Clerk</hi> made his Report accordingly, and <hi>Melliſh</hi> obtained an Order that the ſaid Report ſhould ſtand confirmed, unleſs cauſe were ſhown to the contrary; And it ſo happened, that before the time was expired for ſhewing cauſe againſt the ſaid Report, Your Petitioners Agents had notice that one <hi>John Rice</hi> that had been Your Petitioners Mate in the ſaid Voyages to <hi>New<g ref="char:EOLhyphen"/>found-land,</hi> was come into <hi>England,</hi> having been a Captive in <hi>Sally</hi> for di<g ref="char:EOLhyphen"/>vers years, ſo that Your Petitioner could not have his Teſtimony ſince the controverſie did ariſe;
+<note n="*" place="margin">III. Cauſe of Com<g ref="char:EOLhyphen"/>plaint.</note> Therefore his Lordſhip was petitioned that the ſaid <hi>Rice</hi> might be examined, as to what he knew touching the matters in variance, and in regard Sir <hi>Samuel Clerke</hi> was not then in <hi>London;</hi> it was alſo pray'd, that the Accompts might be Tranſmitted to ſome other Maſter, and the report Review'd and altered, if upon <hi>Rice's</hi> Evidence there ſhould cauſe appear for ſo doing, But his Lordſhip refus'd to grant it; However, upon a Petition to the Maſter of the <hi>Rolls</hi> for that purpoſe, it was by him or<g ref="char:EOLhyphen"/>dered, that <hi>Rice</hi> ſhould be examin'd, and that Sir <hi>Samuel Clerke</hi> ſhould Re<g ref="char:EOLhyphen"/>view his Report, and thereupon <hi>Rice</hi> was Examin'd, and prov'd, that Your Petitioner pay'd for the Fiſh at <hi>New-found-land,</hi> according to the rates in Your Petitioners Accompts; but the time for ſhewing cauſe againſt the con<g ref="char:EOLhyphen"/>firmation of the ſaid Report being neer claps'd, and Your Petitioner not having had the benefit of <hi>Rice</hi>'s Teſtimony before the Maſter; Sir <hi>Samuel</hi> being then in the Countrey, and it being deny'd by the <hi>Lord Chancellor,</hi> that the Report ſhould be review'd by another Maſter; Your Petitioners Agents fil'd Exceptions to the ſaid Report, which were afterwards ſet down to be heard before the <hi>Lord Chancellor,</hi> and ought in courſe to have been heard on ſome day appointed for hearing Exceptions, but by <hi>Melliſhes</hi> pro<g ref="char:EOLhyphen"/>curement, the ſaid Exceptions came on to be heard upon a day appointed to Argue Demurrers which was not expected; whereby Sir <hi>Robert Sawyer</hi> Your Majeſties <hi>Attorney General</hi> being Your Petitioners Principal Councel, hap<g ref="char:EOLhyphen"/>pened not to be preſent,
+<note n="*" place="margin">IV. Cauſe of Com<g ref="char:EOLhyphen"/>plaint.</note> and his Lordſhip was made accquainted therewith; and intreated not to hear the ſaid Exceptions, in the abſence of the ſaid Sir <hi>Robert Sawyer;</hi> However, his Lordſhip would hear them, by reaſon where<g ref="char:EOLhyphen"/>of there was not ſo good a defence made for Your Petitioner, as otherwiſe might have been done: And his Lordſhip did then confirm the ſaid Report in moſt of the particulars excepted thereunto, whereby Your Petitioner, and his Seamens Wages was ſtill wholly ſwallowed up, and Your Petitioner made a Debtor to <hi>Melliſh</hi> in 282 <hi>l.</hi> which his Lordſhip ordered ſhould forthwith be pay'd to <hi>Melliſh,</hi> together with Coſts of Suit to be Tax'd by Sir <hi>Samuel Clerke,</hi> which perhaps may amount to 200 <hi>l.</hi> more.
+<note n="*" place="margin">V. Cauſe of Com<g ref="char:EOLhyphen"/>plaint.</note> And although 230 <hi>l.</hi> of the ſaid 282 <hi>l.</hi> was the Money Recover'd by the ſaid ill Verdict and Judgment thereupon, and the Cauſe to be Reliev'd againſt it, was then ready for his Lordſhips hearing; and his Lordſhip both then and ſince, was often defired to hear the ſame, or ſtop the Payment of the Money till it were heard, there being Security given by Your Petitioner to abide the final order of that Court, but his Lordſhip would do neither.</p>
+            <p>And Your Petitioner further ſheweth unto Your Sacred Majeſty,
+<note n="*" place="margin">VI. Cauſe of Com<g ref="char:EOLhyphen"/>plaint.</note> that the next day after hearing the ſaid Exceptions, Sir <hi>Robert Sawyer</hi> moved his Lordſhip, that the ſaid Exceptions might be Re-heard, but his Lordſhip re<g ref="char:EOLhyphen"/>fuſed it, and not long after Sir <hi>Robert Wright,</hi> one of Your Majeſties Serjeants at Law, <hi>Paul Bowes</hi> and <hi>Walter Williams</hi> of the <hi>Midle-Temple</hi> Barriſters at Law, and of long Practice, finding Your Petitioner was wronged by the confirmation of the ſaid Report; They Signed a Petition to his Lordſhip, thereby praying the ſaid Exceptions might be Re-heard, and certifying his Lordſhip, that they conceived there was good cauſe to Re-hear them, but his Lordſhip rejected the Petition, though it be his Common and almoſt daily practice in other Caſes, to Re-hear upon ſuch Petitions: And though divers of the beſt Councel in Your Majeſties Dominions have divers times ſince gone about to ſhew his Lordſhip Reaſons for Re-hearing the ſaid Exce<g ref="char:EOLhyphen"/>ption, yet he hath ſilenc'd them without hearing their Reaſons, and i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>g, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bidding Your Petitioner Appeal to <hi>Parliament,</hi> by which proceedings Your Petitioner is Injured above a <hi>Thouſand Pounds,</hi> which amounts to almoſt his whole Subſtance, and will be the utter ruin of himſelf and Family, unleſs aided by Your Sacred Majeſty.</p>
+            <p>Foraſmuch as Your Sacred Majeſty is the Fountain of Juſtice, in whom the Supreme Judicative power of the Law reſides, and to whom it apper<g ref="char:EOLhyphen"/>tains upon Appeal, to Examine, Correct or Reverſe Decrees in Chancery, and otherwiſe to Relieve in Caſe of Delay or Denyal of Juſtice in the ſaid Court, either in Your Sacred Perſon, or by Commiſſioners, to be Delegated by Your Moſt Excellent Majeſty, or otherwiſe as Your Majeſty ſhall pleaſe to Order at Your Royal Will and Pleaſure.</p>
+            <p>
+               <hi>Your Petitioner therefore doth in all Humility Appeal in the premiſes to Your Moſt Excellent Majeſty, and doth moſt Humbly beſeech Your Majeſty to Order the hearing thereof in ſuch ways and methods, as to Your Majeſty in Your Royal Wiſdom ſhall ſeem meet for Your Petitioners Relief according to Equity and Juſtice.</hi>
+            </p>
+            <closer>
+               <signed>And Your Petitioner (as in Duty bound) ſhall ever pray, for Your Majeſties Long and Proſperons Reign.</signed>
+            </closer>
+            <pb facs="tcp:174251:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
